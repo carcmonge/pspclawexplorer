@@ -1,6 +1,9 @@
 # PSP Claw Explorer
 This is the repository of PSP Claw Explorer, a project to facilitate use of the PSP without PC
 
+#How to Use
+You need to put files in the MS next to with the EBOOT.PBP of LuaDEV.
+
 #License
 
 The MIT License (MIT)
