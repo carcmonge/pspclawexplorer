@@ -1,6 +1,8 @@
----------------------------------------------
---PSP Claw Explorer 
---------------------------------------------
+--[[
+ * PSP Claw Explorer
+ * Copyright 2016 Carlos Monge.
+ * Licensed under MIT (https://github.com/carcmonge/pspclawexplorer/blob/master/LICENSE)
+]]--
 dofile("./system/kernel/funcionesprincipales.lua")
 dofile("./system/kernel/gestorDeArchivos.lua")
 

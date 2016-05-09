@@ -1,3 +1,8 @@
+--[[
+ * PSP Claw Explorer
+ * Copyright 2016 Carlos Monge.
+ * Licensed under MIT (https://github.com/carcmonge/pspclawexplorer/blob/master/LICENSE)
+]]--
 if imagenGif == true then
 	draw.fillrect(0,0,480,272,blanco2)
 	if menuIMG == false then

@@ -1,3 +1,8 @@
+--[[
+ * PSP Claw Explorer
+ * Copyright 2016 Carlos Monge.
+ * Licensed under MIT (https://github.com/carcmonge/pspclawexplorer/blob/master/LICENSE)
+]]--
 if imagenV == true and foto.pic != nil then
 	image.center(foto.pic)
 	draw.fillrect(0,0,480,272,blanco2)

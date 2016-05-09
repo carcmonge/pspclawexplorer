@@ -1,3 +1,8 @@
+--[[
+ * PSP Claw Explorer
+ * Copyright 2016 Carlos Monge.
+ * Licensed under MIT (https://github.com/carcmonge/pspclawexplorer/blob/master/LICENSE)
+]]--
 collectgarbage("collect")
 -- Cargamos los colores necesarios para el menu de carga
 negro       = color.new(0,0,0)

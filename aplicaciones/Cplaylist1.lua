@@ -1,3 +1,8 @@
+--[[
+ * PSP Claw Explorer
+ * Copyright 2016 Carlos Monge.
+ * Licensed under MIT (https://github.com/carcmonge/pspclawexplorer/blob/master/LICENSE)
+]]--
 function scrollList()   
 	if controls.press("down") then
 		posicion = posicion + 1

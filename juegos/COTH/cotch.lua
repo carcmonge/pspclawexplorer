@@ -1,3 +1,8 @@
+--[[
+ * PSP Claw Explorer
+ * Copyright 2016 Carlos Monge.
+ * Licensed under MIT (https://github.com/carcmonge/pspclawexplorer/blob/master/LICENSE)
+]]--
 fallballs = 3
 probBalls = 3
 function pausa()

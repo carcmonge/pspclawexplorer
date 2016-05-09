@@ -1,7 +1,7 @@
 # PSP Claw Explorer
 This is the repository of PSP Claw Explorer, a project to facilitate use of the PSP without PC
 
-#LICENSE
+#License
 
 The MIT License (MIT)
 

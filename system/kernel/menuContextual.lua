@@ -1,3 +1,8 @@
+--[[
+ * PSP Claw Explorer
+ * Copyright 2016 Carlos Monge.
+ * Licensed under MIT (https://github.com/carcmonge/pspclawexplorer/blob/master/LICENSE)
+]]--
 if in_slideTrans == true and #curDicT > 0 and #marcados <= 1 then
 	if slideAlpha == 60 then
 		slideAlphaPlus = -1 

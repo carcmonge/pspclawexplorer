@@ -1,3 +1,8 @@
+--[[
+ * PSP Claw Explorer
+ * Copyright 2016 Carlos Monge.
+ * Licensed under MIT (https://github.com/carcmonge/pspclawexplorer/blob/master/LICENSE)
+]]--
 function serachFilesList(dirc)
 	local lugar2 = files.list(dirc)
 	for c = 1,#lugar2 do

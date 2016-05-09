@@ -1,3 +1,8 @@
+--[[
+ * PSP Claw Explorer
+ * Copyright 2016 Carlos Monge.
+ * Licensed under MIT (https://github.com/carcmonge/pspclawexplorer/blob/master/LICENSE)
+]]--
 ibateria = {}
 
 if batt.exists() then ibateria.exists = "Insertada" else ibateria.exists = "No hay bateria" end

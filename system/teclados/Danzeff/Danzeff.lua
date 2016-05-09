@@ -1,3 +1,7 @@
+--[[
+ * Danzeff
+ * Autor: chimecho
+]]--
 keys_sel = image.load("Danzeff/keys_sel.png")
 keys_may_sel = image.load("Danzeff/keys_may_sel.png")
 

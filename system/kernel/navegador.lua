@@ -1,3 +1,8 @@
+--[[
+ * PSP Claw Explorer
+ * Copyright 2016 Carlos Monge.
+ * Licensed under MIT (https://github.com/carcmonge/pspclawexplorer/blob/master/LICENSE)
+]]--
 function navegador(d,u,r,l,val,num)
    if controls.press("down") and VM > 0 and VM ~= numOpci and d then
       VM = VM + 1

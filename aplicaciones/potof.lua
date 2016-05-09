@@ -1,3 +1,8 @@
+--[[
+ * PSP Claw Explorer
+ * Copyright 2016 Carlos Monge.
+ * Licensed under MIT (https://github.com/carcmonge/pspclawexplorer/blob/master/LICENSE)
+]]--
 function slideY10(bool,color1,color2)
    if bool == true then
       draw.gradrect(Xmenu,0,140,272,color1,color1,color2,color2) 

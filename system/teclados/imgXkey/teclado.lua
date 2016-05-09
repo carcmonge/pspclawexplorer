@@ -1,3 +1,7 @@
+--[[
+ * XkeyBoard
+ * Autor: xerpi
+]]--
 xkey = {time = timer.new(),x=1,y=1,current = minus,pos = 1,texto = "",commentario = "",seleccion = image.load("imgXkey/cuadrado.png"),dot = false}
 xkey.time:start()
 
